@@ -1,0 +1,5 @@
+git add <filename>
+git commit -m "message"
+git diff
+git add .
+git commit -a -m "message"
